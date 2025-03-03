@@ -1,2 +1,1 @@
-# PRO-C117-Plantilla-Martin
-PRO-C117-Plantilla-Martin avances de la clase
+# PRO-C117-Plantilla-Código
